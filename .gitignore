@@ -9,6 +9,9 @@
 .history
 .svn/
 migrate_working_dir/
+lib/firebase_options.dart
+android/app/google-services.json
+dailymotion_app/firebase.json
 
 # IntelliJ related
 *.iml
