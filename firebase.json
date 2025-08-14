@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"dailymotion-app","appId":"1:972414701979:android:c44401cc07c49037c3913e","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"dailymotion-app","configurations":{"android":"1:972414701979:android:c44401cc07c49037c3913e","ios":"1:972414701979:ios:a85cfc40c305bf68c3913e"}}}}}}
